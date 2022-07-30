@@ -4,8 +4,7 @@ Data and code to reproduce model by Roychowdhury and Roth describing biofilm res
 Files:
 | MATLAB File   | Explanation   |
 | ------------- | ------------- |
-| Read_New1.m  |  Error and optimization function             |
-| Muskerror_New1  | Content Cell  |
+| Read_New1.m, Muskerror_New1  |  Error and optimization function |
 | TOBContinuousTreatment.m  | Continuous treatment for 5, 20, and 50 micrograms/mL of TOB  |
 | TOB4HRCombined.m  | 4 hour treatment for for 5, 20, and 50 micrograms/mL of TOB  |
 | Musken_wKs_after4.m  |  |
